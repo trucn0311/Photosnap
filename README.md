@@ -54,7 +54,7 @@ Users should be able to:
 
 
    #### 4.Pricing Page
-      ![ScreenShot](preview/pricing.png){ width=50% }
+      <img src="preview/pricing.png" width="200" height="200"/>
       Provide detailed information about the prices and packages of service offered by business. Users have the option to pay monthly or yearly
 
 
