@@ -1,4 +1,4 @@
-# Photosnap## Photosnap Website
+## Photosnap Website
 
 - Marketing site for a photo-sharing app
 - This is my solution to the [Photosnap Website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/photosnap-multipage-website-nMDSrNmNW).
@@ -23,9 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
-    - Main page
-      - ![ScreenShot](https://github.com/trucn0311/Photosnap/blob/main/preview/preview.jpg)
-       - Provides an overview of the website's content and purpose, and serves as a starting point for navigating the site.
+   - Main page
+     - ![ScreenShot](preview/pricing.png)
+      - Provides an overview of the website's content and purpose, and serves as a starting point for navigating the site.
     - Stories page
      - ![ScreenShot](https://github.com/trucn0311/Photosnap/blob/main/preview/stories.png)
       - Medium for an artist to showcase their work and to share their vision with others. Documenting a specific event or a news story.
