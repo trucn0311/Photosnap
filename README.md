@@ -3,7 +3,7 @@
 - Marketing site for a photo-sharing app
 - This is my solution to the [Photosnap Website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/photosnap-multipage-website-nMDSrNmNW).
 
-##Live Demo
+## Live Demo
   (https://trucphotosnap.netlify.app)
 
 ## Table of contents
