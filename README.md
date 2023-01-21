@@ -4,7 +4,7 @@
 - This is my solution to the [Photosnap Website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/photosnap-multipage-website-nMDSrNmNW).
 
 ## Live Demo
-  (https://trucphotosnap.netlify.app)
+  https://trucphotosnap.netlify.app
 
 ## Table of contents
 
@@ -58,4 +58,4 @@ Users should be able to:
 ## Author
 
 - Linkedin - [Truc Nguyen](https://www.linkedin.com/in/truc-nguyen-480222230/)
-- Github - (https://github.com/trucn0311)
+- Github - [https://github.com/trucn0311]
