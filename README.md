@@ -45,7 +45,7 @@ Users should be able to:
        
        
    #### 3. Feature Page
-      ![ScreenShot](preview/feature.png){ :width=50% }
+      ![ScreenShot](preview/feature.png){: height="36px" width="36px"}
       Highlight the product, service, or feature of the website
 
 
