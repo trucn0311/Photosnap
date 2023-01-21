@@ -26,9 +26,10 @@ Users should be able to:
 
 ### Screenshot
 
-  #### 1. Main page
-      ![ScreenShot](preview/preview.jpg)
-       Provides an overview of the website's content and purpose, and serves as a starting point for navigating the site.
+ #### 1. Main page
+![ScreenShot](preview/preview.jpg)
+
+Provides an overview of the website's content and purpose, and serves as a starting point for navigating the site.
        
        
        
@@ -36,17 +37,19 @@ Users should be able to:
        
        
   #### 2. Stories page
-      ![ScreenShot](preview/stories.png)
-       Medium for an artist to showcase their work and to share their vision with others. Documenting a specific event or a news story.
+![ScreenShot](preview/stories.png)
+
+Medium for an artist to showcase their work and to share their vision with others. Documenting a specific event or a news story.
        
        
        
        
        
        
-   #### 3. Feature Page
-      ![ScreenShot](preview/feature.png)
-      Highlight the product, service, or feature of the website
+#### 3. Feature Page
+![ScreenShot](preview/feature.png)
+
+Highlight the product, service, or feature of the website
 
 
 
@@ -54,8 +57,10 @@ Users should be able to:
 
 
    #### 4.Pricing Page
-      ![ScreenShot](preview/pricing.png)
-      Provide detailed information about the prices and packages of service offered by business. Users have the option to pay monthly or yearly
+![ScreenShot](preview/pricing.png)
+
+ Provide detailed information about the prices and packages of service offered by business. Users have the option to pay monthly or yearly
+
 
 
 
