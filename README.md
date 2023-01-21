@@ -36,7 +36,7 @@ Users should be able to:
        
        
   #### 2. Stories page
-      ![ScreenShot](preview/stories.png){ width=50% }
+      ![ScreenShot](preview/stories.png = 250x)
        Medium for an artist to showcase their work and to share their vision with others. Documenting a specific event or a news story.
        
        
@@ -45,7 +45,7 @@ Users should be able to:
        
        
    #### 3. Feature Page
-      ![ScreenShot](preview/feature.png){ width=50% }
+      ![ScreenShot](preview/feature.png){ :width=50% }
       Highlight the product, service, or feature of the website
 
 
